@@ -1,0 +1,28 @@
+# 💻 Tugas Akhir Praktikum Jaringan Komputer
+Repository ini berisi dua project Packet Tracer untuk Tugas Akhir Praktikum Jaringan Komputer.
+
+---
+
+## 🧠 Judul 1: [Nama Proyek Judul 1]
+📺 **Video Demo:** [Klik di sini](https://youtu.be/Yyd-q-GdEXk)  
+🖼️ **Screenshot Topologi:**
+![Topologi Judul 1](Judul-1/TA1.png)
+
+📂 **File:**
+- `Judul-1/TA-DimasFaqih.pkt`
+- `Judul-1/TA1.png`
+
+---
+
+## ⚙️ Judul 2: [Nama Proyek Judul 2]
+📺 **Video Demo:** [Klik di sini](https://youtu.be/lB-VXLy2GKE)  
+🖼️ **Screenshot Topologi:**
+![Topologi Judul 2](Judul-2/TA2.png)
+
+📂 **File:**
+- `Judul-2/TA_Lab.pkt`
+- `Judul-2/TA2.png`
+
+---
+
+## 📁 Struktur Folder
