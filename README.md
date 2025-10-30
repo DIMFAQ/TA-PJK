@@ -6,7 +6,7 @@ Repository ini berisi dua project Packet Tracer untuk Tugas Akhir Praktikum Jari
 ## 🧠 Judul 1: [Basic Switch and End Device Configuration]
 📺 **Video Demo:** [Klik di sini](https://youtu.be/Yyd-q-GdEXk)  
 🖼️ **Screenshot Topologi:**
-![Topologi Judul 1](JJDUL 1/TA1.png)
+![Topologi Judul 1](JUDUL-1/TA1.png)
 
 📂 **File:**
 - `Judul-1/TA-DimasFaqih.pkt`
@@ -17,7 +17,7 @@ Repository ini berisi dua project Packet Tracer untuk Tugas Akhir Praktikum Jari
 ## ⚙️ Judul 2: [Build a Switch and Router Network]
 📺 **Video Demo:** [Klik di sini](https://youtu.be/lB-VXLy2GKE)  
 🖼️ **Screenshot Topologi:**
-![Topologi Judul 2](JUDUL 2/TA2.png)
+![Topologi Judul 2](JUDUL-2/TA2.png)
 
 📂 **File:**
 - `Judul-2/TA_Lab.pkt`
