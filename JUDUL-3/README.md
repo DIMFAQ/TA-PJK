@@ -1,5 +1,6 @@
 # Praktikum Jaringan Komputer – Konfigurasi VLAN dan Trunking
 
+Link YT: https://youtu.be/jbyunV39VjE
 Dokumentasi hasil uji konektivitas dari konfigurasi VLAN dan Trunking (Physical Mode) di Cisco Packet Tracer.  
 Laporan ini menjelaskan hasil pengujian ping dari berbagai perangkat untuk memastikan fungsi VLAN, port access, dan trunk antar switch berjalan dengan benar.
 
