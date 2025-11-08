@@ -26,7 +26,7 @@ Repository ini berisi dua project Packet Tracer untuk Tugas Akhir Praktikum Jari
 ---
 
 ## ⚙️ Judul 3: [Build a Switch and Router Network]
-📺 **Video Demo:** [Klik di sini](https://youtu.be/cmingPrA6iE)  
+📺 **Video Demo:** [Klik di sini](https://youtu.be/jbyunV39VjE)  
 🖼️ **Screenshot Topologi:**
 ![Topologi Judul 3](JUDUL-3/TA3.png)
 
